@@ -26,3 +26,9 @@ div img{
 h1, h2 {
     font-family: "lora", serif;
 }
+    h1 {
+        font-size: 40px;
+        color: #312e2c;
+        line-height: 100%;
+        margin-bottom: 24px;
+    }
